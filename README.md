@@ -31,7 +31,7 @@
 struct Gokulnath {
     char location[] = "Coimbatore, India";
     char education[] = "B.E. Electronics and Communication Engineering, PSG iTech";
-    char languages[3][10] = {"Python", "C", "Verilog"};
+    char languages[3][10] = { "C", "Verilog"};
     char tools[5][15] = {"MATLAB", "Arduino IDE", "Vivado", "ESP32"};
     char domains[3][20] = {"Embedded Systems", "IoT", "Digital Electronics"};
     char currentFocus[] = "TinyML-driven healthcare & vehicle safety systems";
